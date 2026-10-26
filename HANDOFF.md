@@ -9,7 +9,7 @@
 
 - **Overall Project Phase**: Milestone 4 Completed — Financial Planning Modules (Budgets, Savings Goals, Debts & Recurring Bills) Verified (`TESTED`)
 - **Application Code Status**: `DONE` untuk cakupan **Milestone 1, Milestone 2, Milestone 3, dan Milestone 4** (Design System Fintech, Autentikasi & RLS Supabase, Dashboard Produksi Supabase dengan Ringkasan Anggaran & Tagihan Jatuh Tempo, Modul Rekening/Dompet, Modul Kategori, Modul Transaksi Konsistensi Atomik, Modul Anggaran Bulanan & Keseluruhan, Modul Target Tabungan & Alokasi/Penarikan Dana, Modul Utang & Piutang dengan Cicilan/Pelunasan, Modul Tagihan & Transaksi Berulang Idempoten, serta Suite Pengujian 32/32 tests lulus).
-- **Repository Git Status**: Belum diinisialisasi (`not a git repository`).
+- **Repository Git Status**: Diinisialisasi pada branch `main`, remote origin `https://github.com/buanavalen223-png/finance-manager.git`, dan commit awal Milestones 0–4 telah dibuat secara bersih (`commit a021f89`). Siap di-push (`git push -u origin main`).
 - **Last Updated**: 2026-10-26
 
 ---
